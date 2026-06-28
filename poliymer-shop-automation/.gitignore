@@ -1,9 +1,0 @@
-node_modules/
-playwright-report/
-test-execution-reports/
-.playwright/
-reports/
-dist/
-*.webm
-*.zip
-*.png
